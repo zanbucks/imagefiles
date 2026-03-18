@@ -1,1 +1,0 @@
-wget https://raw.githubusercontent.com/zanbucks/imagefiles/master/11-carve-fat.tar.gz
